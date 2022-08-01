@@ -12,11 +12,5 @@ $ npm i
 $ npm start
 ```
 
-## 👨‍👧‍👦 팀 구성
-|우석|최정후|윤수호|류용욱|노희수|
-|:--:|:--:|:--:|:--:|:--:|
-|[@Seok93](https://github.com/Seok93)|[@chl9430](https://github.com/chl9430)|[@yoonsooho](https://github.com/yoonsooho)|[@gogoyong](https://github.com/gogoyong)|[@huisu-noh](https://github.com/huisu-noh)|
-|<img src="https://avatars.githubusercontent.com/Seok93" width="100">|<img src="https://avatars.githubusercontent.com/chl9430" width="100">|<img src="https://avatars.githubusercontent.com/yoonsooho" width="100">|<img src="https://avatars.githubusercontent.com/gogoyong" width="100">|<img src="https://avatars.githubusercontent.com/huisu-noh" width="100">|
-
 ## 📅 기간
 2022.06.10~ 2022.06.22
